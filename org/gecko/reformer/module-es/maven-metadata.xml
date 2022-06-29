@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.gecko.reformer</groupId>
+  <artifactId>module-es</artifactId>
+  <versioning>
+    <versions>
+      <version>2021.10-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220629062229</lastUpdated>
+  </versioning>
+</metadata>

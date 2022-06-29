@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.gecko.reformer</groupId>
+  <artifactId>module-auto-table</artifactId>
+  <version>2021.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220629.062101</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20220629062101</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2021.10-20220629.062101-4</value>
+        <updated>20220629062101</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
