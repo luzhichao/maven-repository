@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>module-websocket</artifactId>
+        <groupId>org.gecko.reformer</groupId>
+        <version>2021.10-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>module-websocket-ws</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.gecko.reformer</groupId>
+            <artifactId>common-base</artifactId>
+            <version>2021.10-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.gecko.reformer</groupId>
+            <artifactId>common-log</artifactId>
+            <version>2021.10-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.gecko.reformer</groupId>
+            <artifactId>common-exception</artifactId>
+            <version>2021.10-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.gecko.reformer</groupId>
+            <artifactId>module-redis</artifactId>
+            <version>2021.10-SNAPSHOT</version>
+        </dependency>
+        <!-- websocket模式 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-websocket</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
+        </dependency>
+    </dependencies>
+
+</project>
