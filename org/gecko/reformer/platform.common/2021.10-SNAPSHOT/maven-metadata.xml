@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.gecko.reformer</groupId>
+  <artifactId>platform.common</artifactId>
+  <version>2021.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220630.053024</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20220630053024</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2021.10-20220630.053024-2</value>
+        <updated>20220630053024</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

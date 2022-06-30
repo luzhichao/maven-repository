@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.gecko.reformer</groupId>
+  <artifactId>common-base</artifactId>
+  <version>2021.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220630.053030</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20220630053030</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2021.10-20220630.053030-2</value>
+        <updated>20220630053030</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2021.10-20220630.053030-2</value>
+        <updated>20220630053030</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2021.10-20220630.053030-2</value>
+        <updated>20220630053030</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
